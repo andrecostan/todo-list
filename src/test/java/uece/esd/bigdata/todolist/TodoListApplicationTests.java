@@ -1,4 +1,4 @@
-package uece.esd.bigdata.todo_list;
+package uece.esd.bigdata.todolist;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

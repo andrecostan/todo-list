@@ -1,4 +1,4 @@
-package uece.esd.bigdata.todo_list;
+package uece.esd.bigdata.todolist;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
